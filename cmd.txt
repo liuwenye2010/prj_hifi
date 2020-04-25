@@ -1,0 +1,374 @@
+https://www.freertos.org/Tensilica_Xtensa_Free_RTOS_Demo.html
+
+# run with simulator by commandline or the xploer  
+C:\usr\xtensa\XtDevTools\install\tools\RG-2017.8-win32\XtensaTools\bin\xt-run --xtensa-core=sample_controller --xtensa-system=C:\usr\xtensa\XtDevTools\install\builds\RG-2017.8-win32\sample_controller\config --xtensa-params= --console C:\XtensaRelease_FreeRTOS_V10\XtensaRelease\FreeRTOS\Demo\Tensilica_Simulator_Xplorer_XCC\bin\sample_controller\Debug\RTOSDemo
+:create prvRunTimeStatsTask
+ Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+
+Task		Abs			%
+-------------------------------------------------------------
+Stats  	760		<1%
+
+TX     	7729		<1%
+
+IDLE   	9944562		95%
+
+Tmr Svc	70182		<1%
+
+Rx     	44288		<1%
+
+-------------------------------------------------------------
+========================vTaskList =========================
+
+TaskName   Status   Pri  Remianstack   Task-NO
+
+Stats  	X	1	863	3
+
+IDLE   	R	0	1128	4
+
+Tmr Svc	B	5	1105	5
+
+TX     	B	1	1126	2
+
+Rx     	B	2	1029	1
+
+
+
+-------------------------------------------------------------
+========================vTaskGetRunTimeStats=========================
+
+TaskName    Run-count              Percent
+
+Stats  	368876		3%
+
+IDLE   	9944562		87%
+
+TX     	9403		<1%
+
+Tmr Svc	70182		<1%
+
+Rx     	54954		<1%
+
+
+
+-------------------------------------------------------------
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from software timer
+
+Message received from task
+
+
+Task		Abs			%
+-------------------------------------------------------------
+Stats  	1324625		6%
+
+IDLE   	19859122		91%
+
+Tmr Svc	73409		<1%
+
+TX     	18428		<1%
+
+Rx     	121766		<1%
+
+-------------------------------------------------------------
+========================vTaskList =========================
+
+TaskName   Status   Pri  Remianstack   Task-NO
+
+Message received from task
+
+Stats  	X	1	863	3
+
+IDLE   	R	0	1128	4
+
+TX     	B	1	1102	2
+
+Tmr Svc	B	5	1077	5
+
+Rx     	B	2	1029	1
+
+
+
+-------------------------------------------------------------
+========================vTaskGetRunTimeStats=========================
+
+TaskName    Run-count              Percent
+
+Stats  	2162841		9%
+
+IDLE   	19859122		87%
+
+Tmr Svc	73409		<1%
+
+TX     	20112		<1%
+
+Rx     	132440		<1%
+
+
+
+-------------------------------------------------------------
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+
+Task		Abs			%
+-------------------------------------------------------------
+Stats  	2636694		7%
+
+IDLE   	29793050		90%
+
+Tmr Svc	73409		<1%
+
+TX     	28602		<1%
+
+Rx     	185595		<1%
+
+-------------------------------------------------------------
+========================vTaskList =========================
+
+TaskName   Status   Pri  Remianstack   Task-NO
+
+Stats  	X	1	863	3
+
+IDLE   	R	0	1128	4
+
+TX     	B	1	1102	2
+
+Tmr Svc	B	5	1077	5
+
+Rx     	B	2	1029	1
+
+
+
+-------------------------------------------------------------
+========================vTaskGetRunTimeStats=========================
+
+TaskName    Run-count              Percent
+
+Stats  	2636694		7%
+
+IDLE   	29793050		87%
+
+Tmr Svc	73409		<1%
+
+TX     	28602		<1%
+
+Rx     	185595		<1%
+
+
+
+-------------------------------------------------------------
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from software timer
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+
+Task		Abs			%
+-------------------------------------------------------------
+Stats  	3948059		8%
+
+IDLE   	39712627		89%
+
+Tmr Svc	76634		<1%
+
+TX     	37629		<1%
+
+Rx     	252401		<1%
+
+-------------------------------------------------------------
+========================vTaskList =========================
+
+TaskName   Status   Pri  Remianstack   Task-NO
+
+Stats  	X	1	863	3
+
+IDLE   	R	0	1128	4
+
+Tmr Svc	B	5	1077	5
+
+TX     	B	1	1102	2
+
+Rx     	B	2	1029	1
+
+
+
+-------------------------------------------------------------
+========================vTaskGetRunTimeStats=========================
+
+TaskName    Run-count              Percent
+
+Stats  	4315721		9%
+
+IDLE   	39712627		87%
+
+TX     	39918		<1%
+
+Tmr Svc	76634		<1%
+
+Rx     	263024		<1%
+
+
+
+-------------------------------------------------------------
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+
+Task		Abs			%
+-------------------------------------------------------------
+Stats  	5259855		9%
+
+IDLE   	49646271		89%
+
+Tmr Svc	76634		<1%
+
+TX     	48408		<1%
+
+Rx     	316182		<1%
+
+-------------------------------------------------------------
+========================vTaskList =========================
+
+TaskName   Status   Pri  Remianstack   Task-NO
+
+Message received from task
+
+Stats  	X	1	863	3
+
+IDLE   	R	0	1128	4
+
+TX     	B	1	1102	2
+
+Tmr Svc	B	5	1077	5
+
+Rx     	B	2	1029	1
+
+
+
+-------------------------------------------------------------
+========================vTaskGetRunTimeStats=========================
+
+TaskName    Run-count              Percent
+
+Stats  	6098144		10%
+
+IDLE   	49646271		87%
+
+Tmr Svc	76634		<1%
+
+TX     	50092		<1%
+
+Rx     	326814		<1%
+
+
+
+-------------------------------------------------------------
+Message received from task
+
+Message received from software timer
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+
+Task		Abs			%
+-------------------------------------------------------------
+Stats  	6572632		9%
+
+IDLE   	59562120		88%
+
+Tmr Svc	79861		<1%
+
+TX     	59117		<1%
+
+Rx     	393620		<1%
+
+-------------------------------------------------------------
+========================vTaskList =========================
+
+TaskName   Status   Pri  Remianstack   Task-NO
+
+Stats  	X	1	863	3
+
+IDLE   	R	0	1128	4
+
+TX     	B	1	1102	2
+
+Tmr Svc	B	5	1077	5
+
+Rx     	B	2	1029	1
+
+
+
+-------------------------------------------------------------
+========================vTaskGetRunTimeStats=========================
+
+TaskName    Run-count              Percent
+
+Stats  	6572632		9%
+
+IDLE   	59562120		87%
+
+Tmr Svc	79861		<1%
+
+TX     	59117		<1%
+
+Rx     	393620		<1%
+
+
+
+-------------------------------------------------------------
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
+
+Message received from task
